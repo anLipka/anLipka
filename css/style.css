@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.main{
+    background-color: lightgray;
+    height: 270px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    border: 2px solid grey;
+    border-radius: 50px 0;
+    margin: 50px 100px;
+    float: left;
+}
+
+.info{
+    font-family: Calibri;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
